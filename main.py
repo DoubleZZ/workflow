@@ -18,3 +18,4 @@ def features_v3():
 	chaussure = "gauche"
 	chaussette = "droite"
 
+	new_chaussette = "milieu"
