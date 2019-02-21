@@ -11,3 +11,10 @@ def features_v2():
 	voiture = 420
 	moto = True
 
+
+def features_v3():
+	""" Ici sont inclus les features liés à la version 3 et supérieurs """
+
+	chaussure = "gauche"
+	chaussette = "droite"
+
