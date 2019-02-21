@@ -4,3 +4,4 @@ def features_v1():
 	bateau = 42
 	radeau = "false"
 
+	new_bateau = 420
