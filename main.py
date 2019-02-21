@@ -11,3 +11,4 @@ def features_v2():
 	voiture = 420
 	moto = True
 
+	new_moto = "vroom"
