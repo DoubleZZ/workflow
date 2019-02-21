@@ -1,3 +1,6 @@
+# Workflow version 1.0
+# Bonjour à l'utilisateur
+
 def features_v1():
 	""" Ici sont inclus les features liés à la version 1 et supérieurs """
 
